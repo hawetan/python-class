@@ -4,6 +4,7 @@ while True:
     operator=input("operator: - ")
     if operator=="+":
         print(num1+num2)
+    elif operator== "-":
         print(num1-num2) 
     elif  operator== "*":
         print(num1*num2) 
